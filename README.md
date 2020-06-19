@@ -66,3 +66,6 @@ This is the first project I did using Pandas. In this project I am a Chief Data 
 ### Scores by School Type
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
+
+
+To run, simply go to PyCitySchools/PyCitySchools_starter.ipynb and run the ipynb file
